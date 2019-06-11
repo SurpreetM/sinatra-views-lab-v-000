@@ -16,6 +16,5 @@ class App < Sinatra::Base
     erb :date
   end
   
-  end
 
 end
